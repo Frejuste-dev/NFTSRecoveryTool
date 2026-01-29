@@ -1,5 +1,9 @@
 # 🔓 NTFS Recovery Tool
 
+<p align="center">
+  <img src="logo.png" alt="NTFS Recovery Tool Logo" width="150">
+</p>
+
 > Outil PowerShell avec interface graphique pour la récupération sécurisée des droits NTFS sur Windows.
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?logo=powershell)
