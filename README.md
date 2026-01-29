@@ -135,7 +135,8 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👤 Auteur
 
-**Frejuste Dev - Kei Prince Frejuste**
+**Kei Prince Frejuste** ([@Frejuste-dev](https://github.com/Frejuste-dev))  
+Développeur Backend
 
 ---
 
