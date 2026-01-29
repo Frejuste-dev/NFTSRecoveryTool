@@ -135,7 +135,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👤 Auteur
 
-**SIBM - Service Informatique**
+**Frejuste Dev - Kei Prince Frejuste**
 
 ---
 
